@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SA4108 Memory Game-app.iml" filepath="$PROJECT_DIR$/.idea/modules/SA4108 Memory Game-app.iml" group="SA4108 Memory Game/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1386786141/SA4108-AndroidMemoryGame-SA4108_Memory_Game.iml" filepath="$PROJECT_DIR$/.idea/modules/1386786141/SA4108-AndroidMemoryGame-SA4108_Memory_Game.iml" group="SA4108_Memory_Game" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1800143301/SA4108_Memory_Game.iml" filepath="$PROJECT_DIR$/.idea/modules/-1800143301/SA4108_Memory_Game.iml" group="SA4108_Memory_Game" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app.iml" group="SA4108 Memory Game/app" />
+    </modules>
+  </component>
+</project>

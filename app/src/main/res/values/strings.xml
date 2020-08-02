@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SA4108 Memory Game</string>
+    <string name="arjun">Arjun</string>
+    <string name="scoreboard">Scoreboard</string>
+    <string name="yourscore">YOUR SCORE</string>
+    <string name="time">2\' 33\"</string>
+    <string name="start">START NEW GAME</string>
+    <string name="submit">SUBMIT SCORE</string>
+</resources>
